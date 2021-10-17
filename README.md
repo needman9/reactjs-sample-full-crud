@@ -1,8 +1,8 @@
-# react.js shopping cart
+# react.js full crud
 
-example of shopping cart implemented in react.js and redux.js
+example of full crud implemented in react.js and redux.js
 
-for demo [click here](http://krzysu.github.io/reactjs-shopping-cart/)
+for demo [click here](http://krzysu.github.io/reactjs-full-crud/)
 
 ## getting started
 
@@ -21,7 +21,3 @@ npm start
 
 ## TODO
 - add reducers and selectors unit tests
-
-* * *
-author: Kris Urbas [@krzysu](https://twitter.com/krzysu)   
-licence: MIT
