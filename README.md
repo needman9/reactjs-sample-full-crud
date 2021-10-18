@@ -2,8 +2,6 @@
 
 example of full crud implemented in react.js and redux.js
 
-for demo [click here](http://krzysu.github.io/reactjs-full-crud/)
-
 ## getting started
 
 install dependencies and start local dev server
